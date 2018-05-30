@@ -3,4 +3,8 @@ storage:none
 
 clitool dotnet-fable
 nuget Fable.Core
+nuget Fable.Elmish
+nuget Fable.Elmish.Browser
+nuget Fable.Elmish.Debugger
+nuget Fable.Elmish.HMR
 nuget Fable.Import.Browser

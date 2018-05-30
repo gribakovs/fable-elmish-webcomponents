@@ -1,4 +1,4 @@
-module webcomponents
+module App
 
 open Fable.Core
 open Fable.Core.JsInterop

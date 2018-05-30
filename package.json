@@ -1,7 +1,7 @@
 {
   "private": true,
   "fable": {
-    "entry": "src/webcomponents.fsproj"
+    "entry": "src/App/App.fsproj"
   },
   "scripts": {
     "postinstall": "dotnet restore",
